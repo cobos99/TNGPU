@@ -20,4 +20,6 @@ Here, we have access to a Linux shell, which should not be used to directly exec
 
 We have access to two main roots of the file system of the cluster, namely `/dipc/username/` and `/scratch/username/`. The first is path `/dipc/` is where we are intended to save large files that we want to save for long as it is backed up regularly. The second path points to high performance storage, and it is from where we should submit our jobs. My recommendation is to use temporarily `/scratch/` when submitting jobs and then downloading the results directly to your computer.
 
-The best way to manage the files on the cluster is to use [FileZilla](https://filezilla-project.org/), which is a very convenient FTP file explorer. Configuring FileZilla to access the 
+The best way to manage the files on the cluster is to use [FileZilla](https://filezilla-project.org/), which is a very convenient FTP file explorer. Configuring FileZilla to access the cluster is very simple
+
+![Image](./Summary%20figures/Server_add_button.pngraw=true)
