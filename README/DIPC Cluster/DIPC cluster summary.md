@@ -22,5 +22,5 @@ We have access to two main roots of the file system of the cluster, namely `/dip
 
 The best way to manage the files on the cluster is to use [FileZilla](https://filezilla-project.org/), which is a very convenient FTP file explorer. Configuring FileZilla to access the cluster is very simple
 
-![Image](../README/DIPC Cluster/Summary figures/Server_add_button.png)
+![Image](/README/DIPC%20Cluster/Summary%20figures/Server_add_button.png)
 
